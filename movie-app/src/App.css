@@ -1,34 +1,65 @@
-.body{
-  background: #141414;
-  color: #ffffff;
+/* Style for the movie container */
+.movie-dispaly {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
 }
 
-.movie-app >.row{
-  overflow-x: auto;
-  flex-wrap: nowrap;
+/* Style for each movie item */
+ .movie-card{
+  width: calc(33.33% - 20px); /* 20px for margin; adjust the width as needed */
+  margin: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+  overflow: hidden;
+  border-radius: 8px;
+  
 }
 
-.image-container{
-  position: relative;
-  transition: transform 0.2s;
+/* Style for movie images */
+.movie-card img {
+  width: 70%;
+  height: auto;
+  border-radius: 8px 8px 0 0; /* Rounded corners for the top */
 }
 
-.image-container:hover{
-  cursor: pointer;
-  transform: scale(1.1);
+/* Style for movie content */
+.movie-content {
+  padding: 10px;
+  
 }
 
-.image-container:hover.overlay{
-  opacity: 1;
-}
-
-.overlay{
-  position: absolute;
-  background: rgba(0, 0, 0, 0.8);
-  width: 100%;
-  transition: 0.5s ease;
-  opacity: 0;
-  bottom: 0;
-  font-size: 20px;
+/* Style for movie titles */
+.movie-item h3 {
   text-align: center;
+  margin-top: 5px;
+}
+
+/* Optional: Add hover effect */
+.movie-item:hover {
+  transform: scale(1.05);
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 40px;
+  background-color: #f0f0f0;
+  border-bottom:2px solid #2c3e50;
+  color: rgb(241, 137, 137);
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  margin-left: auto; 
+}
+
+.nav-link {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: 25px;
+  margin: 0 15px;
 }
