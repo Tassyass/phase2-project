@@ -1,0 +1,151 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Beetlejuice",
+            "year": "1988",
+            "runtime": "92",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+            "genres": "Fantasy"
+        }, 
+        {
+            "id": 2,
+            "title": "The Cotton Club",
+            "year": "1984",
+            "runtime": "127",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5ODAyNzA4OV5BMl5BanBnXkFtZTcwNzYwNTIzNA@@._V1_SX300.jpg",
+            "genres": "Drama"
+        },
+        {
+            "id": 3,
+            "title": "The Shawshank Redemption",
+            "year": "1994",
+            "runtime": "142",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SX300.jpg",
+            "genres": "Drama"
+        },
+        {
+            "id": 4,
+            "title": "Crocodile Dundee",
+            "year": "1986",
+            "runtime": "97",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0MTU1MTg4NF5BMl5BanBnXkFtZTgwMDgzNzYxMTE@._V1_SX300.jpg",
+            "genres": "Comedy"
+        },
+        {
+            "id": 5,
+            "title": "Valkyrie",
+            "year": "2008",
+            "runtime": "121",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxMTIyNzMxMV5BMl5BanBnXkFtZTcwOTc4OTI3Mg@@._V1_SX300.jpg",
+            "genres": "Fantasy"
+        },
+        {
+            "id": 6,
+            "title": "Ratatouille",
+            "year": "2007",
+            "runtime": "111",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX300.jpg",
+            "genres": "Comedy"
+        },
+     
+        {
+            "id": 7,
+            "title": "City of God",
+            "year": "2002",
+            "runtime": "130",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX300.jpg",
+            "genres": "Fantasy"
+        },
+        {
+            "id": 8,
+            "title": "Memento",
+            "year": "2000",
+            "runtime": "113",
+            "posterUrl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNjA5NzY4M15BMl5BanBnXkFtZTcwNjQ2NzI5NA@@._V1_SX300.jpg",
+            "genres": "Comedy"
+        },
+        {
+            "id": 9,
+            "title": "The Intouchables",
+            "year": "2011",
+            "runtime": "112",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_SX300.jpg",
+            "genres": "Drama"
+        },
+        {
+            "id": 10,
+            "title": "Stardust",
+            "year": "2007",
+            "runtime": "127",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_SX300.jpg",
+            "genres": "Drama"
+    
+        },
+        {
+            "id": 11,
+            "title": "Apocalypto",
+            "year": "2006",
+            "runtime": "139",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTM1NjYyNTY5OV5BMl5BanBnXkFtZTcwMjgwNTMzMQ@@._V1_SX300.jpg",
+            "genres": "Comedy"
+        },
+        {
+            "id": 12,
+            "title": "Hangover",
+            "year": "1976",
+            "runtime": "113",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1MDA1MTYwMF5BMl5BanBnXkFtZTcwMDcxMzA1Mg@@._V1_SX300.jpg",
+            "genres": "Fantasy"
+        },
+        {
+            "id": 13,
+            "title": "No Country for Old Men",
+            "year": "2007",
+            "runtime": "122",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg",
+            "genres": "Drama"
+        },
+        {
+            "id": 14,
+            "title": "The Great Beauty",
+            "year": "2009",
+            "runtime": "91",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0ODg1OTQ2Nl5BMl5BanBnXkFtZTgwNTc2MDY1MDE@._V1_SX300.jpg",
+            "genres": "Comedy"
+        },
+        {
+            "id": 15,
+            "title": "Looper",
+            "year": "2012",
+            "runtime": "119",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMjI1OTMxNl5BMl5BanBnXkFtZTcwNjc3NTY1OA@@._V1_SX300.jpg",
+            "genres": "Fantasy"
+        },
+        {
+            "id": 16,
+            "title": "Requim For Dream",
+            "year": "2005",
+            "runtime": "77",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzODMzODYwOF5BMl5BanBnXkFtZTcwODM2NjA2NQ@@._V1_SX300.jpg",
+            "genres": "Drama"
+        },
+        {
+            "id": 17,
+            "title": "The Third Man",
+            "year": "1949",
+            "runtime": "93",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwNzMzMTQ0Ml5BMl5BanBnXkFtZTgwNjExMzUwNjE@._V1_SX300.jpg",
+            "genres": "Comedy"
+        },
+        {
+            "id": 18,
+            "title": "The Beach",
+            "year": "2000",
+            "runtime": "119",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2ViYTFiZmUtOTIxZi00YzIxLWEyMzUtYjQwZGNjMjNhY2IwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+            "genres": "Fantasy"
+        }
+    
+    ]
+    }
