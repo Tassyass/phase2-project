@@ -35,3 +35,7 @@
   text-align: center;
   margin-top: 5px;
 }
+/* Optional: Add hover effect */
+.movie-item:hover {
+  transform: scale(1.05);
+}
