@@ -15,7 +15,7 @@ function App() {
   const [movies, setMovies] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:3000/movies")
+    fetch("https://my-json-server.typicode.com/Tassyass/phase2-project/movies")
       .then((res) => res.json())
       .then((movies) => {
         setMovies(movies);
