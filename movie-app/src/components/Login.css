@@ -29,3 +29,8 @@
       border: 1px solid #ccc;
       border-radius: 4px;
     }
+
+    .error-message {
+        color: #ff0000;
+        margin-top: 10px;
+      }
