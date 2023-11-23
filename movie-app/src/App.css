@@ -50,3 +50,8 @@
   color: rgb(241, 137, 137);
 }
 
+.nav-links {
+  display: flex;
+  align-items: center;
+  margin-left: auto; 
+}
