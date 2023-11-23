@@ -33,4 +33,13 @@
     .error-message {
         color: #ff0000;
         margin-top: 10px;
+    }
+
+    button {
+        background-color: #007bff; /* Set your preferred button color */
+        color: #ffffff;
+        padding: 10px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
       }
