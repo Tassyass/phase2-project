@@ -1,7 +1,7 @@
 export default function Header(){
     return (
         <>
-        <div className="header">MOVIES</div>
+        <div className="header"> CLASSIC MOVIES</div>
         </>
     )
     }
