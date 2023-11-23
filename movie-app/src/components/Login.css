@@ -17,3 +17,8 @@
   .form-group {
     margin-bottom: 30%;
   }
+
+  label {
+    display: block;
+    margin-bottom: 8px;
+  }
