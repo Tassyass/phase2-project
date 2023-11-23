@@ -16,3 +16,10 @@
   border-radius: 8px;
   
 }
+
+/* Style for movie images */
+.movie-card img {
+  width: 70%;
+  height: auto;
+  border-radius: 8px 8px 0 0; /* Rounded corners for the top */
+}
