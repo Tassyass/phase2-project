@@ -6,3 +6,13 @@
   
 }
 
+/* Style for each movie item */
+.movie-card{
+  width: calc(33.33% - 20px); /* 20px for margin; adjust the width as needed */
+  margin: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+  overflow: hidden;
+  border-radius: 8px;
+  
+}
