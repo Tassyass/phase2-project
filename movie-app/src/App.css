@@ -29,3 +29,9 @@
   padding: 10px;
   
 }
+
+/* Style for movie titles */
+.movie-item h3 {
+  text-align: center;
+  margin-top: 5px;
+}
